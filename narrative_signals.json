@@ -1,0 +1,30 @@
+[
+  {
+    "name": "$BOME",
+    "narrative": "Meme culture and digital lore theme, appealing to creative communities",
+    "score": 8.2,
+    "stage": "Early Spread",
+    "asymmetry": "High",
+    "risks": ["Dependent on artist influencer adoption", "Moderate liquidity ramp needed"],
+    "rec": "Enter small if X mentions hit 500+ in next hour; target 4x exit on acceleration",
+    "chain": "Solana",
+    "sources": ["X", "DexScreener"],
+    "timestamp": "2026-03-08T19:50:00Z",
+    "outcome": "Pending",
+    "links": {"x_thread": "https://x.com/search?q=%24BOME", "explorer": "https://solscan.io/token/bome-address-here"}
+  },
+  {
+    "name": "$SLERF",
+    "narrative": "Absurd sloth meme promoting 'lazy' gains, viral humor potential",
+    "score": 7.5,
+    "stage": "Discovery",
+    "asymmetry": "Medium-High",
+    "risks": ["Narrative may not stick without visuals", "Early whale concentration"],
+    "rec": "Monitor holder distro; enter if decentralizes, exit at 2-3x on momentum",
+    "chain": "Solana",
+    "sources": ["X", "DexScreener"],
+    "timestamp": "2026-03-08T19:50:00Z",
+    "outcome": "Pending",
+    "links": {"x_thread": "https://x.com/search?q=%24SLERF", "explorer": "https://solscan.io/token/slerf-address-here"}
+  }
+]
